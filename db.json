@@ -7,20 +7,4 @@
   ],
   "profile": {
     "name": "typicode"
-  },
-  "app":[
-   {
-      "albumId":1,
-      "id":1,
-      "title":"ABCDE",
-      "url":"https://via.placeholder.com/600/92c952",
-      "thumbnailUrl":"https://via.placeholder.com/150/92c952"
-   },
-   {
-      "albumId":1,
-      "id":2,
-      "title":"123456",
-      "url":"https://via.placeholder.com/600/771796",
-      "thumbnailUrl":"https://via.placeholder.com/150/771796"
-   
-}
+  }
